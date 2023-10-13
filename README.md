@@ -1,2 +1,2 @@
 # jenkins
-emotive-jenkins
+jenkins
